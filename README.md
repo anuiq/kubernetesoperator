@@ -1,0 +1,2 @@
+# kubernetesoperator
+rolebinding-namespace-operator
